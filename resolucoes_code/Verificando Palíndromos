@@ -1,0 +1,9 @@
+# Verificação de palíndromo
+
+palavra = input("Digite uma palavra: ")
+
+# Invertendo a string com slicing [::-1]
+if palavra == palavra[::-1]:
+    print(f"A palavra '{palavra}' é um PALÍNDROMO.")
+else:
+    print(f"A palavra '{palavra}' NÃO é um palíndromo.")
