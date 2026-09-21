@@ -1,3 +1,35 @@
+🐍 Resolvendo códigos em Python com Copilot
+Este repositório guarda meus primeiros códigos em Python, feitos com a ajuda do GitHub Copilot.
+A ideia é praticar, aprender e registrar minha evolução.
+
+📂 O que tem aqui
+Exercícios e exemplos em Python
+
+Pequenos desafios resolvidos
+
+Códigos simples para estudo
+
+🎯 Objetivo
+Aprender lógica de programação
+
+Treinar escrita de código
+
+Guardar meus primeiros projetos
+
+🚀 Como usar
+Abra os arquivos .py no seu editor (VS Code, por exemplo).
+
+Execute os códigos para ver o resultado.
+
+Explore e modifique para praticar.
+
+🤝 Contribuições
+Este é um espaço de aprendizado. Sugestões e dicas são bem-vindas!
+
+📜 Licença
+Livre para usar e compartilhar.
+
+
 # Resolvendo Códigos em Python com o Github Copilot
 
 Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
